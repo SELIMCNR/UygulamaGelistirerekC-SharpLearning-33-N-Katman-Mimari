@@ -1,0 +1,6 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\EntityLayer1\bin\Debug\EntityLayer1.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\EntityLayer1\bin\Debug\EntityLayer1.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\EntityLayer1\obj\Debug\EntityLayer1.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\EntityLayer1\obj\Debug\EntityLayer1.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\EntityLayer1\obj\Debug\EntityLayer1.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\EntityLayer1\obj\Debug\EntityLayer1.pdb

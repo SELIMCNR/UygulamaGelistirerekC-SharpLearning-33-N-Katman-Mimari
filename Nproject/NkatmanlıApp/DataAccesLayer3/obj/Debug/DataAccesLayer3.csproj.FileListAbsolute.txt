@@ -1,0 +1,9 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\bin\Debug\DataAccesLayer3.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\bin\Debug\DataAccesLayer3.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\bin\Debug\EntityLayer1.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\bin\Debug\EntityLayer1.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\obj\Debug\DataAccesLayer3.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\obj\Debug\DataAccesLayer3.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\obj\Debug\DataAccesLayer3.csproj.CopyComplete
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\obj\Debug\DataAccesLayer3.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\DataAccesLayer3\obj\Debug\DataAccesLayer3.pdb

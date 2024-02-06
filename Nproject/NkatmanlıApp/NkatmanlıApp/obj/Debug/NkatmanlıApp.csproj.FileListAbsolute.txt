@@ -1,0 +1,17 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\NkatmanlıApp.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\NkatmanlıApp.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\NkatmanlıApp.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\DataAccesLayer3.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\EntityLayer1.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\LogicLayer.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\DataAccesLayer3.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\EntityLayer1.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\bin\Debug\LogicLayer.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.csproj.CopyComplete
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\NkatmanlıApp\obj\Debug\NkatmanlıApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\bin\Debug\DataAccesLayer3.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\bin\Debug\EntityLayer1.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\bin\Debug\DataAccesLayer3.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\bin\Debug\EntityLayer1.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project39\Nproject\NkatmanlıApp\LogicLayer\obj\Debug\LogicLayer.pdb
